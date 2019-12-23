@@ -1,12 +1,12 @@
 
 ## CONTENT CREATOR 모집 예고
 
-![Alt text](/create.jpg)
-
 행복한 크리스마스와 연말이 코 앞으로 다가온 시점에서 [모두의연구소](https://home.modulabs.co.kr/)가 깜짝 소식을 들고 왔습니다.🎅🎁
 
 `"Learning By Doing"` 의 컨셉이 담긴 모두연만의 교육 프로그램이 내년 6월 런칭을 목표로 열심히 설계되고 있는데요!<br>
 그 핵심을 담당하고 저희와 함께 멋진 그림을 완성시켜 나갈 컨텐츠 크리에이터를 모시고자 합니다.
+
+![Alt text](/create.jpg)
 
 🔽 `CHECK POINT`
 
