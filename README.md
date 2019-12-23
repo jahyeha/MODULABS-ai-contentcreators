@@ -8,7 +8,7 @@
 그 핵심을 담당하고 저희와 함께 멋진 그림을 완성시켜 나갈 컨텐츠 크리에이터를 모시고자 합니다.
 <br>
 
-![Alt text](/create.jpg)
+![Alt text](/image.jpg)
 
 🔽 `CHECK POINT`
 <br>
