@@ -24,7 +24,7 @@
 　
 #### **3. 주제는 무엇이 있나요?**
  - Python Programming
- - Machine Learning (Deep Learning)
+ - Machine Learning / Deep Learning
  - Computer Vision, NLP
 　
 #### **4. 지원 일정은 어떻게 되나요?**
