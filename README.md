@@ -41,6 +41,6 @@
 #### **🔉 추가 안내사항** 
  - 최종 선발된 콘텐츠 크리에이터 분들에게는 계약기간 동안 월 300만원 수준의 사례금을 드립니다.
  - 본 글은 모집 예고이며 실제 모집공고는 1월 2일(목)에 공지됩니다. 
- - 보다 자세한 내용은 1차 서류전형 이후 OT에서 안내드릴 예정입니다. 따로 궁금하신 점은 [Issues](https://github.com/jahyeha/MODULABS-ai-contentcreators/issues)에 남겨주세요.
+ - 보다 자세한 내용은 1차 서류전형 이후 OT에서 안내드릴 예정입니다. 따로 궁금하신 점은 [Issues](https://github.com/jahyeha/MODULABS-ai-contentcreators/issues)에 남겨주세요. :)
  
  ---
